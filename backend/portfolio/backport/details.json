@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "title": "about yourself?",
+      "content": "Hello, I am Akash M, a highly motivated full-stack developer with expertise in Python, JavaScript, ReactJS, Django, and Machine Learning. I recently completed my B.Tech in Artificial Intelligence and Data Science from Sri Venkateswara College of Engineering, with a CGPA of 8.162. I have worked on various projects, including ETL pipelines, machine learning tools (MLPRO), an AI-based scenery classifier, and an automated YouTube content creator using APIs and Task Scheduler. I am passionate about problem-solving, AI-driven applications, and web development. I enjoy working on innovative projects and collaborating with cross-functional teams. In addition to my technical skills, I hold certifications in Python and Data Analysis with Python. I am eager to apply my skills and contribute to impactful projects. You can connect with me on LinkedIn and check out my work on GitHub.",
+      "tags": [
+  "introduction",
+  "about you",
+  "about",
+  "self introduction",
+  "intro",
+  "introduce yourself",
+  "who are you",
+  "tell me about yourself",
+  "your bio",
+  "your background"
+]
+    },
+    {
+      "id": 2,
+      "title": "Education",
+      "content": "I have a B.Tech in Artificial Intelligence and Data Science from Sri Venkateswara College of Engineering (2021-2024) with a CGPA of 8.162. Additionally, I completed a Diploma in Mechanical Engineering from Central Polytechnic College (2018-2021) with a CGPA of 8.6, and my SSLC from Kendriya Vidyalaya Gill Nagar (2007-2017) with a CGPA of 7.6.",
+      "tags": ["education", "degrees", "qualification","school","schooling","graduate","graduated"]
+    },
+    {
+      "id": 3,
+      "title": "Skills",
+      "content": "My technical skills include Python, MySQL, HTML/CSS, and JavaScript. I have experience working with frameworks such as Django and ReactJS.",
+      "tags": ["skills", "technical expertise"]
+    },
+    {
+      "id": 4,
+      "title": "Certifications",
+      "content": "I have certifications in Python development (GUVI), Data Analysis with Python (FreeCodeCamp) and Artificial Intelligence for All (Infosys). You can verify my certifications here: https://www.guvi.in/verify-certificate?id=5s654x6LPtG505614F#, https://www.freecodecamp.org/certification/AKASH150421/data-analysis-with-python-v7 and https://drive.google.com/file/d/1C3le-YGHMknqLZodMf-04jky2hqi8Z_7/view",
+      "tags": ["certifications", "courses","awards"]
+    },
+    {
+      "id": 5,
+      "title": "Projects",
+      "content": "I have worked on multiple projects, including:\n1. **ETL** - A process for extracting, transforming, and loading data from various sources.\n2. **MLPRO** - A machine learning tool for running ML algorithms and generating plots.\n3. **Not a Hand Cricket** - A game played between a computer and a human.\n4. **Scenery Classifier** - A CNN-based image classification model for classifying landscapes.\n5. **YouTube Business** - An automated system that fetches videos from non-copyrighted sources, adds music, and uploads them to YouTube using an API and Task Scheduler.",
+      "tags": ["projects", "portfolio", "your works", "work experience"]
+    },
+    {
+      "id": 6,
+      "title": "Interests and Talents",
+      "content": "My interests include drawing, sports, and story writing. I am also skilled in problem-solving and creative thinking.",
+      "tags": ["hobbies", "personal interests", "talents", "skills", "strengths", "creative","Interests","Interests and Talents"]
+    },
+    {
+      "id": 7,
+      "title": "Contact Information",
+      "content": "You can contact me via email at akash150421@gmail.com or by phone at 7358508187. Connect with me on LinkedIn: https://linkedin.com/in/akash-m-611333245 and GitHub: https://github.com/noobder.",
+      "tags": ["contact", "LinkedIn", "GitHub", "phone", "mail", "id","number"]
+    }
+  ]
+  
